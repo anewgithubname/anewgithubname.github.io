@@ -1,5 +1,62 @@
 <!-- ## Song Liu, Lecturer in Statistical Science, University of Bristol -->
-You can use the [editor on GitHub](https://github.com/anewgithubname/lamfeeling.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## TL;DR
+I am a _statistical machine learning_ researcher who has been mostly working on [Density Ratio Estimation](https://www.cambridge.org/core/books/density-ratio-estimation-in-machine-learning/BCBEA6AEAADD66569B1E85DDDEAA7648). 
+I have a _vision_ that by comparing two density functions, many machine learning problems can be solved more elegantly and efficiently. We have seen many important works being done along this line, such as [Generative Adversarial Net](https://arxiv.org/abs/1406.2661). 
+
+### Preprints
+- **Liu S.**, Kanamori T., Williams, D.J., Estimating Density Models with Truncation Boundaries, [arxiv](https://arxiv.org/abs/1910.03834).
+- **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
+- Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, [arxiv](https://arxiv.org/abs/2001.07135).
+- Kim, B., **Liu, S.**, Kolar, M.,Two-sample inference for high-dimensional Markov networks, [arxiv](https://arxiv.org/abs/1905.00466).
+
+### Select publications in the last 5 years
+- (AAAI 2021) Minami, S., **Liu, S.**, Wu, S., Fukumizu, K., Yoshida, R., A General Class of Transfer Learning Regression without Implementation Cost, _AAAI Conference on Artificial Intelligence_, To appear, 2021. 
+
+- (NEURIPS2019) **Liu, S.**, Kanamori, T., Jitkrittum, W., Chen, Y.  Fisher Efficient Inference of Intractable Models,_ Advances in Neural Information Processing Systems 32_, 2019.
+
+- (ICML2019) Wu, X. Z., **Liu, S.**, Zhou, Z.H. Heterogeneous Model Reuse via Optimizing Multiparty Multiclass Margin, _Proceedings of the 36th International Conference on Machine Learning_, PMLR 97, 2019. 
+
+- (NC2018) Noh, Y-K., Sugiyama, M., **Liu, S.**, du Plessis, M.C., Park, F.C., and Lee, D. D., Bias Reduction and Metric Learning for Nearest−Neighbor Estimation of Kullback−Leibler Divergence, _Neural Computation Vol.30(7)_, 2018
+
+- (NEURIPS2017) **Liu, S.**, Takeda, A., Suzuki, T., Fukumizu K., Trimmed Density Ratio Estimation, _Advances in Neural Information Processing Systems 30_, 2017
+
+- (AOS2017) **Liu, S.**, Suzuki, T., Relator R., Sese J., Sugiyama, M., Fukumizu, K., Support consistency of direct sparse-change learning in Markov networks. _Annals of Statistics, Volume 45, Number 3_, 2017
+
+- (ICML2016) **Liu, S.**, Suzuki, T., Sugiyama, M. Fukumizu K., Structure Learning of Partitioned Markov Networks, _Proceedings of the 33rd International Conference on Machine Learning_, 2016. 
+
+- (SDM 2016) **Liu, S.**, Fukumizu K., Estimating Posterior Ratio for Classification: Transfer Learning from Probabilistic Perspective, _Proceedings of 2016 SIAM International Conference on Data Mining_, 2016. 
+
+### PhD students
+- Mingxuan Yi, Math PhD student.  
+- [Daniel Williams](https://dannyjameswilliams.co.uk/author/daniel-williams/), Math PhD student.
+- Yulong Zhang, Civil Engineering PhD student. 
+
+### Teaching
+- [Statistical Methods 1](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=7912981ABC434B62AA99EB75652E7E8A?ayrCode=20%2F21&unitCode=MATHM0041) (2019/2020), School of Mathematics.
+- [Symbols, Patterns and Signals](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21202), Department of Computer Science.
+
+### Research Grants
+- Turing Pilot Project.
+- Daiwa Foundation Small Grant.
+
+### Employment History
+- **08/2019 – present**, Lecturer in Statistical Science, School of Mathematics, Uni. of Bristol 
+- **09/2017 – 08/2019**, Lecturer in Data Science and A.I., Department of Computer Science, Uni. of Bristol 
+- **04/2015 - 09/2017**, Project Assistant Professor, The Institute of Statistical Mathematics, Japan. 
+- **04/2014 - 03/2015**, Postdoctoral (JSPS Fellow), Tokyo Institute of Technology, Japan.  
+
+
+### Education 
+- **03/2014**, Doctor of Engineering, Tokyo Institute of Technology, Japan. 
+Thesis: Statistical Machine Learning Approaches on Change Detection.  
+		Supervisor: [Prof. Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)
+
+- **10/2010**, Master of Science with Distinction, University of Bristol, UK. 
+
+- **06/2009**, Bachelor of Engineering, Soochow University, China.  
+
+
+<!-- You can use the [editor on GitHub](https://github.com/anewgithubname/lamfeeling.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -33,4 +90,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
