@@ -7,9 +7,10 @@ I have a _vision_ that by comparing two density functions, many machine learning
 - **Liu S.**, Kanamori T., Williams, D.J., Estimating Density Models with Truncation Boundaries, [arxiv](https://arxiv.org/abs/1910.03834).
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 - Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, [arxiv](https://arxiv.org/abs/2001.07135).
-- Kim, B., **Liu, S.**, Kolar, M.,Two-sample inference for high-dimensional Markov networks, [arxiv](https://arxiv.org/abs/1905.00466).
 
 ### Select publications in the last 5 years
+- Kim, B., **Liu, S.**, Kolar, M.,Two-sample inference for high-dimensional Markov networks, to appear, Journal of the Royal Statistical Society Series B (JRSSB), [arxiv](https://arxiv.org/abs/1905.00466).
+
 - (AAAI 2021) Minami, S., **Liu, S.**, Wu, S., Fukumizu, K., Yoshida, R., A General Class of Transfer Learning Regression without Implementation Cost, _AAAI Conference on Artificial Intelligence_, To appear, 2021. 
 
 - (NEURIPS2019) **Liu, S.**, Kanamori, T., Jitkrittum, W., Chen, Y.  Fisher Efficient Inference of Intractable Models,_ Advances in Neural Information Processing Systems 32_, 2019.
