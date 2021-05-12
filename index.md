@@ -9,7 +9,7 @@ I have a _vision_ that by comparing two density functions, many machine learning
 - Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, [arxiv](https://arxiv.org/abs/2001.07135).
 
 ### Select publications in the last 5 years
-- Kim, B., **Liu, S.**, Kolar, M.,Two-sample inference for high-dimensional Markov networks, to appear, Journal of the Royal Statistical Society Series B (JRSSB), [arxiv](https://arxiv.org/abs/1905.00466).
+- Kim, B., **Liu, S.**, Kolar, M.,Two-sample inference for high-dimensional Markov networks, to appear, _Journal of the Royal Statistical Society Series B (JRSSB)_, [arxiv](https://arxiv.org/abs/1905.00466).
 
 - (AAAI 2021) Minami, S., **Liu, S.**, Wu, S., Fukumizu, K., Yoshida, R., A General Class of Transfer Learning Regression without Implementation Cost, _AAAI Conference on Artificial Intelligence_, To appear, 2021. 
 
