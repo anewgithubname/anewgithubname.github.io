@@ -30,7 +30,8 @@ I have a _vision_ that by comparing two density functions, many machine learning
 
 ### PhD students
 - Mingxuan Yi, Math PhD student.  
-- [Daniel Williams](https://dannyjameswilliams.co.uk/author/daniel-williams/), Math PhD student.
+- [Daniel Williams](https://dannyjameswilliams.co.uk/author/daniel-williams/), [COMPASS](http://www.bristol.ac.uk/cdt/compass/) PhD student.
+- Jack Simons, [COMPASS](http://www.bristol.ac.uk/cdt/compass/) PhD student.
 - Yulong Zhang, Civil Engineering PhD student. 
 
 ### Teaching
