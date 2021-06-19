@@ -3,6 +3,8 @@
 I am a _statistical machine learning_ researcher and have been mostly working on [Density Ratio Estimation](https://www.cambridge.org/core/books/density-ratio-estimation-in-machine-learning/BCBEA6AEAADD66569B1E85DDDEAA7648). 
 I have a _vision_ that by comparing two density functions, many machine learning problems can be solved more elegantly and efficiently. We have seen many important works being done along this line, such as [Generative Adversarial Net](https://arxiv.org/abs/1406.2661). 
 
+If you are interested in doing a PhD at Bristol, please consider [Compass - EPSRC Centre for Doctoral Training in Computational Statistics and Data Science](http://www.bristol.ac.uk/cdt/compass/). You can also directly apply for a PhD position at the university. Some [scholarship](https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/) (such as [CSC](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/)) are available.  
+
 ### Preprints
 - **Liu S.**, Kanamori T., Williams, D.J., Estimating Density Models with Truncation Boundaries, [arxiv](https://arxiv.org/abs/1910.03834).
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
