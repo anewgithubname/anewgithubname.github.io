@@ -10,7 +10,9 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
 ### Select publications in the last 5 years
-- (TKDE 2021) Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, IEEE Transactions on Knowledge and Data Engineering,  [arxiv](https://arxiv.org/abs/2001.07135), 2021
+- Damage Detection of Nonlinear Structures Using Probability Density Ratio Estimation, _Computer-Aided Civil and Infrastructure Engineering_, Zhang Y., Macdonald J., **Liu S.**, and Harper P.
+
+- (TKDE 2021) Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, _IEEE Transactions on Knowledge and Data Engineering_,  [arxiv](https://arxiv.org/abs/2001.07135), 2021
 
 - (JRSSB 2021) Kim, B., **Liu, S.**, Kolar, M.,Two-sample inference for high-dimensional Markov networks, to appear, _Journal of the Royal Statistical Society Series B (JRSSB)_, [arxiv](https://arxiv.org/abs/1905.00466), 2021.
 
