@@ -10,7 +10,7 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
 ### Select publications in the last 5 years
-- (CACAIE 2021) Damage Detection of Nonlinear Structures Using Probability Density Ratio Estimation, _Computer-Aided Civil and Infrastructure Engineering_, Zhang Y., Macdonald J., **Liu S.**, and Harper P., 2021
+- (CACAIE 2021) Damage Detection of Nonlinear Structures Using Probability Density Ratio Estimation, _Computer-Aided Civil and Infrastructure Engineering_, Zhang Y., Macdonald J., [online version](https://onlinelibrary.wiley.com/doi/10.1111/mice.12772), **Liu S.**, and Harper P., 2021
 
 - (TKDE 2021) Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, _IEEE Transactions on Knowledge and Data Engineering_,  [arxiv](https://arxiv.org/abs/2001.07135), 2021
 
