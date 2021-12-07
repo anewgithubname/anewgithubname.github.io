@@ -38,6 +38,8 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - Mingxuan Yi, Math PhD student.  
 - [Daniel Williams](https://dannyjameswilliams.co.uk/author/daniel-williams/), [COMPASS](http://www.bristol.ac.uk/cdt/compass/) PhD student.
 - Jack Simons, [COMPASS](http://www.bristol.ac.uk/cdt/compass/) PhD student.
+
+### Graduated PhD students
 - Yulong Zhang, Civil Engineering PhD student. 
 
 ### Teaching
@@ -46,7 +48,9 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - [Symbols, Patterns and Signals](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21202), Department of Computer Science.
 
 ### Research Grants
-- Turing Pilot Project.
+- EPSRC Impact Acceleration Account.- Turing Pilot Project.
+52
+
 - Daiwa Foundation Small Grant.
 
 ### Employment History
