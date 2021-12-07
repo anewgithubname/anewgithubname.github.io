@@ -48,9 +48,7 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - [Symbols, Patterns and Signals](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21202), Department of Computer Science.
 
 ### Research Grants
-- EPSRC Impact Acceleration Account.- Turing Pilot Project.
-52
-
+- EPSRC Impact Acceleration Account.
 - Daiwa Foundation Small Grant.
 
 ### Employment History
