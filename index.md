@@ -47,7 +47,7 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - [Statistical Methods 1](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=7912981ABC434B62AA99EB75652E7E8A?ayrCode=20%2F21&unitCode=MATHM0041) (2019/2020), School of Mathematics.
 - [Symbols, Patterns and Signals](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21202), Department of Computer Science.
 
-### Research Grants
+### Current Research Grants
 - EPSRC Impact Acceleration Account.
 - Daiwa Foundation Small Grant.
 
