@@ -48,6 +48,8 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - Yulong Zhang, Civil Engineering PhD student. 
 
 ### Teaching
+- [Algorithms and Programming in C(++) and R](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=MATH10017)
+- [Statistical Methods 1](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=21%2F22&unitCode=MATHM0041) (2021/2022), School of Mathematics.
 - [Statistical Methods 1](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=7912981ABC434B62AA99EB75652E7E8A?ayrCode=20%2F21&unitCode=MATHM0041) (2020/2021), School of Mathematics.
 - [Statistical Methods 1](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=7912981ABC434B62AA99EB75652E7E8A?ayrCode=20%2F21&unitCode=MATHM0041) (2019/2020), School of Mathematics.
 - [Symbols, Patterns and Signals](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21202), Department of Computer Science.
