@@ -12,7 +12,7 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - **Liu S.**, Kanamori T., Williams, D.J., Estimating Density Models with Truncation Boundaries, [arxiv](https://arxiv.org/abs/1910.03834).
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
-### Select publications in recent years
+### Select papers in recent years
 - (AABI2022) Simons, J., **Liu, S.** Beaumont, M., Variational Likelihood-Free Gradient Descent, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
 
 - (AABI2022, Contributed Talk) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
