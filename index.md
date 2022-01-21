@@ -13,9 +13,9 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
 ### Select publications in recent years
-- (AABI2022) Simons, J., Liu, S. Beaumont, M., Variational Likelihood-Free Gradient Descent, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
+- (AABI2022) Simons, J., **Liu, S.** Beaumont, M., Variational Likelihood-Free Gradient Descent, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
 
-- (AABI2022, Contributed Talk) Yi, M., Liu, S., Sliced Wasserstein Variational Inference, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
+- (AABI2022, Contributed Talk) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
 
 - (CACAIE 2021) Zhang Y., Macdonald J., [online version](https://onlinelibrary.wiley.com/doi/10.1111/mice.12772), **Liu S.**, and Harper P., Damage Detection of Nonlinear Structures Using Probability Density Ratio Estimation, _Computer-Aided Civil and Infrastructure Engineering_, 2021
 
