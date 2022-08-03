@@ -1,4 +1,4 @@
-<!-- ## Song Liu, Lecturer in Statistical Science, University of Bristol -->
+<!-- ## Song Liu, Senior Lecturer in Statistical Science, University of Bristol -->
 ## TL;DR
 I am a _statistical machine learning_ researcher and have been mostly working on [Density Ratio Estimation](https://www.cambridge.org/core/books/density-ratio-estimation-in-machine-learning/BCBEA6AEAADD66569B1E85DDDEAA7648). 
 I have a _vision_ that by comparing two density functions, many machine learning problems can be solved more elegantly and efficiently. We have seen many important works being done along this line, such as [Generative Adversarial Net](https://arxiv.org/abs/1406.2661). 
@@ -44,6 +44,7 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - Mingxuan Yi, Math PhD student.  
 - [Daniel Williams](https://dannyjameswilliams.co.uk/author/daniel-williams/), [COMPASS](http://www.bristol.ac.uk/cdt/compass/).
 - Jack Simons, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Prof. Mark Beaumont. 
+- Josh Givens, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Dr. Henry Reeve. 
 
 ### Graduated PhD students
 - Yulong Zhang, Civil Engineering PhD student. 
