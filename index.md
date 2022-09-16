@@ -22,7 +22,7 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 
 - (CACAIE 2021) Zhang Y., Macdonald J., [online version](https://onlinelibrary.wiley.com/doi/10.1111/mice.12772), **Liu S.**, and Harper P., Damage Detection of Nonlinear Structures Using Probability Density Ratio Estimation, _Computer-Aided Civil and Infrastructure Engineering_, 2021
 
-- (TKDE 2021) Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, _IEEE Transactions on Knowledge and Data Engineering_,  [arxiv](https://arxiv.org/abs/2001.07135), 2021
+- (TKDE 2021) Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, doi: 10.1109/TKDE.2021.3086619, _IEEE Transactions on Knowledge and Data Engineering_,  [arxiv](https://arxiv.org/abs/2001.07135), 2021
 
 - (JRSSB 2021) Kim, B., **Liu, S.**, Kolar, M.,Two-sample inference for high-dimensional Markov networks, page 939-962, Volume83, Issue5, _Journal of the Royal Statistical Society Series B (JRSSB)_, [arxiv](https://arxiv.org/abs/1905.00466), 2021.
 
