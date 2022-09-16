@@ -13,7 +13,8 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 ### Select papers in recent years
 - (NeurIPS2022) **Liu S.**, Estimating the Arc Length of the Optimal ROC Curve and Lower Bounding the Maximal AUC, to appear, NeurIPS 2022 [arxiv](https://arxiv.org/abs/2110.09651). 
 
-- (JMLR2022) **Liu S.**, Kanamori T., Williams, D.J., Estimating Density Models with Truncation Boundaries, [arxiv](https://arxiv.org/abs/1910.03834), to appear, Journal of Machine Learning Research. 
+- (JMLR2022) **Liu S.**, Kanamori T., Williams, D.J., Estimating Density Models with Truncation Boundaries using Score Matching
+, [arxiv](https://arxiv.org/abs/1910.03834), 23(186):1−38, _Journal of Machine Learning Research_, 2022. 
 
 - (AABI2022) Simons, J., **Liu, S.** Beaumont, M., Variational Likelihood-Free Gradient Descent, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
 
