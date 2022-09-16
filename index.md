@@ -11,7 +11,7 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
 ### Select papers in recent years
-- (NeurIPS2022) **Liu S.**, Estimating the Arc Length of the Optimal ROC Curve and Lower Bounding the Maximal AUC, to appear, NeurIPS 2022 [arxiv](https://arxiv.org/abs/2110.09651). 
+- (NeurIPS2022) **Liu S.**, Estimating the Arc Length of the Optimal ROC Curve and Lower Bounding the Maximal AUC, to appear, _NeurIPS 2022_ [arxiv](https://arxiv.org/abs/2110.09651). 
 
 - (JMLR2022) **Liu S.**, Kanamori T., Williams, D.J., Estimating Density Models with Truncation Boundaries using Score Matching
 , [arxiv](https://arxiv.org/abs/1910.03834), 23(186):1−38, _Journal of Machine Learning Research_, 2022. 
@@ -24,9 +24,9 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 
 - (TKDE 2021) Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, _IEEE Transactions on Knowledge and Data Engineering_,  [arxiv](https://arxiv.org/abs/2001.07135), 2021
 
-- (JRSSB 2021) Kim, B., **Liu, S.**, Kolar, M.,Two-sample inference for high-dimensional Markov networks, to appear, _Journal of the Royal Statistical Society Series B (JRSSB)_, [arxiv](https://arxiv.org/abs/1905.00466), 2021.
+- (JRSSB 2021) Kim, B., **Liu, S.**, Kolar, M.,Two-sample inference for high-dimensional Markov networks, page 939-962, Volume83, Issue5, _Journal of the Royal Statistical Society Series B (JRSSB)_, [arxiv](https://arxiv.org/abs/1905.00466), 2021.
 
-- (AAAI 2021) Minami, S., **Liu, S.**, Wu, S., Fukumizu, K., Yoshida, R., A General Class of Transfer Learning Regression without Implementation Cost, _AAAI Conference on Artificial Intelligence_, To appear, 2021. 
+- (AAAI 2021) Minami, S., **Liu, S.**, Wu, S., Fukumizu, K., Yoshida, R., A General Class of Transfer Learning Regression without Implementation Cost, _AAAI Conference on Artificial Intelligence_, 2021. 
 
 - (NEURIPS2019) **Liu, S.**, Kanamori, T., Jitkrittum, W., Chen, Y.  Fisher Efficient Inference of Intractable Models,_ Advances in Neural Information Processing Systems 32_, 2019.
 
