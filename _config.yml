@@ -31,6 +31,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Woodland Road, <a href='https://goo.gl/maps/xbHiP9MCozWF5yPK9'>BS8 1UG.</a> <br /> <br />
 
   *The actual person may look slightly <strike>bigger</strike> different than the image. 🙃
+  
+  Hobby Project <a href='https://github.com/anewgithubname/Juzhen'>Juzhen</a>, a set of C++ APIs for numerical computation and neural net applicaitons. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
