@@ -11,7 +11,7 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
 ### Select papers in recent years
-- (ACML2022) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference, to appear, _ACML 2022_ 
+- (ACML2022) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference, to appear, _ACML 2022_. [arxiv](https://arxiv.org/abs/2207.13177) 
 
 - (NeurIPS2022) **Liu, S.**, Estimating the Arc Length of the Optimal ROC Curve and Lower Bounding the Maximal AUC, to appear, _NeurIPS 2022_ [arxiv](https://arxiv.org/abs/2110.09651). 
 
