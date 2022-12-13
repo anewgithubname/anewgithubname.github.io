@@ -11,9 +11,9 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
 ### Select papers in recent years
-- (ACML2022) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference, to appear, _ACML 2022_. [arxiv](https://arxiv.org/abs/2207.13177).
+- (ACML2022) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference (Best Student Paper), _ACML 2022_. [arxiv](https://arxiv.org/abs/2207.13177).
 
-- (NeurIPS2022) **Liu, S.**, Estimating the Arc Length of the Optimal ROC Curve and Lower Bounding the Maximal AUC, to appear, _NeurIPS 2022_ [arxiv](https://arxiv.org/abs/2110.09651). 
+- (NeurIPS2022) **Liu, S.**, Estimating the Arc Length of the Optimal ROC Curve and Lower Bounding the Maximal AUC, _NeurIPS 2022_ [arxiv](https://arxiv.org/abs/2110.09651). 
 
 - (JMLR2022) **Liu, S.**, Kanamori, T., Williams, D.J., Estimating Density Models with Truncation Boundaries using Score Matching
 , [arxiv](https://arxiv.org/abs/1910.03834), 23(186):1−38, _Journal of Machine Learning Research_, 2022. 
