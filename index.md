@@ -11,7 +11,11 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
 ### Select papers in recent years
-- (AISTATS2023), Givens, J., Reeve, H., **Liu S.**, Density Ratio Estimation and Neyman Pearson Classification with Missing Data, AISTATS2023, to appear.  
+- (ICML2023), Williams, D. J., **Liu, S.**, Approximate Stein Classes for Truncated Density Estimation, ICML2023, to appear. 
+
+- (ICML2023), Yi, M., Zhu, Z., **Liu, S.**, MonoFlow: Rethinking Divergence GANs via the Perspective of Differential Equations, ICML2023, to appear. 
+
+- (AISTATS2023), Givens, J., Reeve, H., **Liu, S.**, Density Ratio Estimation and Neyman Pearson Classification with Missing Data, AISTATS2023, to appear.  
 
 - (ACML2022) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference (Best Student Paper), _ACML 2022_. [arxiv](https://arxiv.org/abs/2207.13177).
 
