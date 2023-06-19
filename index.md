@@ -77,7 +77,7 @@ If you are interested in doing a machine learning PhD at Bristol, please conside
 
 ### Education 
 - **03/2014**, Doctor of Engineering, Tokyo Institute of Technology, Japan. 
-Thesis: Statistical Machine Learning Approaches on Change Detection.  
+Thesis: [Statistical Machine Learning Approaches on Change Detection](https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100666815).  
 		Supervisor: [Prof. Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)
 
 - **10/2010**, Master of Science with Distinction, University of Bristol, UK. 
