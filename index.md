@@ -7,15 +7,16 @@ I have a _vision_ that by comparing two density functions, many machine learning
 If you are interested in doing a machine learning PhD at Bristol, please consider [Compass - EPSRC Centre for Doctoral Training in Computational Statistics and Data Science](http://www.bristol.ac.uk/cdt/compass/). You can also directly apply for a PhD position at the university. Some [scholarship](https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/) (such as [CSC](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/)) are available.  
 
 ### Work in progress
-- Sharrock, L., Simons, J., **Liu S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, [arxiv](https://arxiv.org/abs/2210.04872).
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
 ### Select papers in recent years
-- (ICML2023), Williams, D. J., **Liu, S.**, Approximate Stein Classes for Truncated Density Estimation, ICML2023, to appear. 
+- [AABI2023], Sharrock, L., Simons, J., **Liu S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, AABI2023, [arxiv](https://arxiv.org/abs/2210.04872).
 
-- (ICML2023), Yi, M., Zhu, Z., **Liu, S.**, MonoFlow: Rethinking Divergence GANs via the Perspective of Differential Equations, ICML2023, to appear. 
+- (ICML2023), Williams, D. J., **Liu, S.**, Approximate Stein Classes for Truncated Density Estimation, __ICML2023__, [arxiv](https://arxiv.org/abs/2306.00602). 
 
-- (AISTATS2023), Givens, J., Reeve, H., **Liu, S.**, Density Ratio Estimation and Neyman Pearson Classification with Missing Data, AISTATS2023, to appear.  
+- (ICML2023), Yi, M., Zhu, Z., **Liu, S.**, MonoFlow: Rethinking Divergence GANs via the Perspective of Differential Equations, __ICML2023__, [arxiv](https://arxiv.org/abs/2302.01075). 
+
+- (AISTATS2023), Givens, J., Reeve, H., **Liu, S.**, Density Ratio Estimation and Neyman Pearson Classification with Missing Data, __AISTATS2023__, [arxiv](https://arxiv.org/abs/2302.10655).  
 
 - (ACML2022) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference (Best Student Paper), _ACML 2022_. [arxiv](https://arxiv.org/abs/2207.13177).
 
