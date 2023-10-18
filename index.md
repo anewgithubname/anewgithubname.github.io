@@ -4,7 +4,7 @@ I am a _statistical machine learning_ researcher and have been mostly working on
 I have a _vision_ that by comparing two density functions, many machine learning problems can be solved more elegantly and efficiently. You can read more about my vision on [Machine Learning via Statistical Discrepancies](comp_div.pdf).
 <!-- We have seen many important works being done along this line, such as [Generative Adversarial Net](https://arxiv.org/abs/1406.2661).  -->
 
-If you are interested in doing a machine learning PhD at Bristol, please consider [Compass - EPSRC Centre for Doctoral Training in Computational Statistics and Data Science](http://www.bristol.ac.uk/cdt/compass/). You can also directly apply for a PhD position at the university. Some [scholarship](https://www.bristol.ac.uk/doctoral-college/prospective-research-students/funding/) (such as [CSC](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/)) are available.  
+I currently do not have a quota for accepting new PhD student. If you are interested in working on Maching Learning in Bristol, please consider [my excellent colleagues](https://www.bristolmathsresearch.org/members-of-the-institute-for-statistical-science/) and I am happy to collabrate on future proejcts that are relevant to my research. 
 
 ### Work in progress
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
