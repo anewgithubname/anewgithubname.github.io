@@ -10,6 +10,10 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 - **Liu, S.,** Zhang, Y., Yi, M., Kolar M., Posterior Ratio Estimation of Latent Variables, [arxiv](https://arxiv.org/abs/2002.06410).
 
 ### Select papers in recent years
+- (ICML2024), **Liu, S.**, Yu, J., Simons, J., Yi, M., Beaumont, M., Minimizing $f$-Divergences by Interpolating Velocity Fields, _ICML2024_, [arxiv](https://arxiv.org/abs/2305.15577). 
+
+- (ICML2024), Sharrock, L., Simons, J., **Liu, S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, _ICML2024_, [arxiv](https://arxiv.org/abs/2210.04872). 
+
 - [AABI2023], Sharrock, L., Simons, J., **Liu S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, _AABI2023_, [arxiv](https://arxiv.org/abs/2210.04872).
 
 - (ICML2023), Williams, D. J., **Liu, S.**, Approximate Stein Classes for Truncated Density Estimation, _ICML2023_, [arxiv](https://arxiv.org/abs/2306.00602). 
