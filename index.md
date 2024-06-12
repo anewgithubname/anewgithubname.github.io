@@ -12,7 +12,7 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 ### Select papers in recent years
 - (ICML2024), **Liu, S.**, Yu, J., Simons, J., Yi, M., Beaumont, M., Minimizing $f$-Divergences by Interpolating Velocity Fields, _ICML2024_, [arxiv](https://arxiv.org/abs/2305.15577). 
 
-- (ICML2024), Sharrock, L.\*, Simons, J.\*, **Liu, S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, _ICML2024_, [arxiv](https://arxiv.org/abs/2210.04872). *Equal contribution, spotlight paper, Top 3%
+- (ICML2024), Sharrock, L.\*, Simons, J.\*, **Liu, S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, _ICML2024_, [arxiv](https://arxiv.org/abs/2210.04872). *Equal contribution, **spotlight paper, Top 3%**
 
 - (OE2024), Zhang, Y., Pan, Z., Macdonald, J.H.G., **Liu, S.**, Harper, P., Structural damage detection based on multivariate probability density functions of vibration data of offshore wind foundations with comparison studies, Ocean Engineering, [link](https://www.sciencedirect.com/science/article/pii/S0029801824011211?dgcid=coauthor).
 
