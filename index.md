@@ -1,4 +1,4 @@
-<!-- ## Song Liu, Senior Lecturer in Statistical Science, University of Bristol -->
+<!-- ## Song Liu, Associate Professor on Data Science and AI (from 01/Aug/2024), University of Bristol -->
 ## TL;DR
 I am a _statistical machine learning_ researcher and have been mostly working on [Density Ratio Estimation](https://www.cambridge.org/core/books/density-ratio-estimation-in-machine-learning/BCBEA6AEAADD66569B1E85DDDEAA7648). 
 I have a _vision_ that by comparing two density functions, many machine learning problems can be solved more elegantly and efficiently. You can read more about my vision on [Machine Learning via Statistical Discrepancies](comp_div.pdf).
@@ -64,6 +64,7 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 - Jack Simons, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Prof. Mark Beaumont. 
 - Josh Givens, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Dr. Henry Reeve.
 - Yakun Wang, Math PhD student.
+- Sherman Khoo, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Prof. Mark Beaumont. 
 
 ### Graduated PhD students
 - Yulong Zhang, Civil Engineering PhD student. 
@@ -74,7 +75,8 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 - [Symbols, Patterns and Signals](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21202), (2018-2019) Department of Computer Science.
 
 ### Employment History
-- **08/2019 – present**, Lecturer in Statistical Science, School of Mathematics, Uni. of Bristol 
+- **08/2022 – 07/2024**, Senior Lecturer in Statistical Science, School of Mathematics, Uni. of Bristol
+- **08/2019 – 07/2022**, Lecturer in Statistical Science, School of Mathematics, Uni. of Bristol 
 - **09/2017 – 08/2019**, Lecturer in Data Science and A.I., Department of Computer Science, Uni. of Bristol 
 - **04/2015 - 09/2017**, Project Assistant Professor, The Institute of Statistical Mathematics, Japan. 
 - **04/2014 - 03/2015**, Postdoctoral (JSPS Fellow), Tokyo Institute of Technology, Japan.  
