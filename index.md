@@ -7,33 +7,33 @@ I have a _vision_ that by comparing two density functions, many machine learning
 I am happy to accept new PhD students. If you are interested in working on Machine Learning at Bristol, you may find several funding opportunities, such as [Prob_AI](https://www.probai.uk/) and [CSC scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).  
 
 ### Select papers in recent years (*post/undergrad students I supervise)
-- (ICML2024), **Liu, S.**, Yu, J., Simons, J.*, Yi, M., Beaumont, M., Minimizing $f$-Divergences by Interpolating Velocity Fields, _ICML2024_, [arxiv](https://arxiv.org/abs/2305.15577). 
+- (ICML2024), **Liu, S.**, Yu, J., Simons, J.\*, Yi, M.\*, Beaumont, M., Minimizing $f$-Divergences by Interpolating Velocity Fields, _ICML2024_, [arxiv](https://arxiv.org/abs/2305.15577). 
 
 - (ICML2024), Sharrock, L.\#, Simons, J.\#\*, **Liu, S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, _ICML2024_, [arxiv](https://arxiv.org/abs/2210.04872). *Equal contribution,
 	- **Spotlight paper, Top 3.5%**
 
-- (OE2024), Zhang, Y., Pan, Z., Macdonald, J.H.G., **Liu, S.**, Harper, P., Structural damage detection based on multivariate probability density functions of vibration data of offshore wind foundations with comparison studies, Ocean Engineering, [link](https://www.sciencedirect.com/science/article/pii/S0029801824011211?dgcid=coauthor).
+- (OE2024), Zhang, Y.\*, Pan, Z., Macdonald, J.H.G., **Liu, S.**, Harper, P., Structural damage detection based on multivariate probability density functions of vibration data of offshore wind foundations with comparison studies, Ocean Engineering, [link](https://www.sciencedirect.com/science/article/pii/S0029801824011211?dgcid=coauthor).
 
-- [AABI2023], Sharrock, L., Simons, J., **Liu S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, _AABI2023_, [arxiv](https://arxiv.org/abs/2210.04872).
+- [AABI2023], Sharrock, L., Simons, J.\*, **Liu S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, _AABI2023_, [arxiv](https://arxiv.org/abs/2210.04872).
 
-- (ICML2023), Williams, D. J., **Liu, S.**, Approximate Stein Classes for Truncated Density Estimation, _ICML2023_, [arxiv](https://arxiv.org/abs/2306.00602). 
+- (ICML2023), Williams, D. J.\*, **Liu, S.**, Approximate Stein Classes for Truncated Density Estimation, _ICML2023_, [arxiv](https://arxiv.org/abs/2306.00602). 
 
-- (ICML2023), Yi, M., Zhu, Z., **Liu, S.**, MonoFlow: Rethinking Divergence GANs via the Perspective of Differential Equations, _ICML2023_, [arxiv](https://arxiv.org/abs/2302.01075). 
+- (ICML2023), Yi, M.\*, Zhu, Z., **Liu, S.**, MonoFlow: Rethinking Divergence GANs via the Perspective of Differential Equations, _ICML2023_, [arxiv](https://arxiv.org/abs/2302.01075). 
 
-- (AISTATS2023), Givens, J., Reeve, H., **Liu, S.**, Density Ratio Estimation and Neyman Pearson Classification with Missing Data, _AISTATS2023_, [arxiv](https://arxiv.org/abs/2302.10655).  
+- (AISTATS2023), Givens, J.\*, Reeve, H., **Liu, S.**, Density Ratio Estimation and Neyman Pearson Classification with Missing Data, _AISTATS2023_, [arxiv](https://arxiv.org/abs/2302.10655).  
 
-- (ACML2022) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference (Best Student Paper), _ACML 2022_. [arxiv](https://arxiv.org/abs/2207.13177).
+- (ACML2022) Yi, M.\*, **Liu, S.**, Sliced Wasserstein Variational Inference (Best Student Paper), _ACML 2022_. [arxiv](https://arxiv.org/abs/2207.13177).
 
 - (NeurIPS2022) **Liu, S.**, Estimating the Arc Length of the Optimal ROC Curve and Lower Bounding the Maximal AUC, _NeurIPS 2022_ [arxiv](https://arxiv.org/abs/2110.09651). 
 
-- (JMLR2022) **Liu, S.**, Kanamori, T., Williams, D.J., Estimating Density Models with Truncation Boundaries using Score Matching
+- (JMLR2022) **Liu, S.**, Kanamori, T., Williams, D.J.\*, Estimating Density Models with Truncation Boundaries using Score Matching
 , [arxiv](https://arxiv.org/abs/1910.03834), 23(186):1−38, _Journal of Machine Learning Research_, 2022. 
 
-- (AABI2022) Simons, J., **Liu, S.** Beaumont, M., Variational Likelihood-Free Gradient Descent, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
+- (AABI2022) Simons, J.\*, **Liu, S.** Beaumont, M., Variational Likelihood-Free Gradient Descent, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
 
-- (AABI2022, Contributed Talk) Yi, M., **Liu, S.**, Sliced Wasserstein Variational Inference, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
+- (AABI2022, Contributed Talk) Yi, M.\*, **Liu, S.**, Sliced Wasserstein Variational Inference, _4th Symposium on Advances in Approximate Bayesian Inference_, 2022. 
 
-- (CACAIE 2021) Zhang Y., Macdonald J., [online version](https://onlinelibrary.wiley.com/doi/10.1111/mice.12772), **Liu S.**, and Harper P., Damage Detection of Nonlinear Structures Using Probability Density Ratio Estimation, _Computer-Aided Civil and Infrastructure Engineering_, 2021
+- (CACAIE 2021) Zhang Y.\*, Macdonald J., [online version](https://onlinelibrary.wiley.com/doi/10.1111/mice.12772), **Liu S.**, and Harper P., Damage Detection of Nonlinear Structures Using Probability Density Ratio Estimation, _Computer-Aided Civil and Infrastructure Engineering_, 2021
 
 - (TKDE 2021) Wu, XZ., Xu, W., **Liu, S.**, Zhou, ZH., Model Reuse with Reduced Kernel Mean Embedding Specification, doi: 10.1109/TKDE.2021.3086619, _IEEE Transactions on Knowledge and Data Engineering_,  [arxiv](https://arxiv.org/abs/2001.07135), 2021
 
