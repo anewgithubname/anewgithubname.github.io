@@ -56,15 +56,15 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 - (SDM 2016) **Liu, S.**, Fukumizu K., Estimating Posterior Ratio for Classification: Transfer Learning from Probabilistic Perspective, _Proceedings of 2016 SIAM International Conference on Data Mining_, 2016. 
 
 ### PhD students
-- Mingxuan Yi, Math PhD student.
-- [Daniel Williams](https://dannyjameswilliams.co.uk/author/daniel-williams/), [COMPASS](http://www.bristol.ac.uk/cdt/compass/).
 - Jack Simons, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Prof. Mark Beaumont. 
 - Josh Givens, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Dr. Henry Reeve.
 - Yakun Wang, Math PhD student.
 - Sherman Khoo, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Prof. Mark Beaumont. 
 
 ### Graduated PhD students
-- Yulong Zhang, Civil Engineering PhD student. 
+- Yulong Zhang, Civil Engineering PhD student.
+- Mingxuan Yi, Math PhD student. (Viva passed, with minor revision)
+- [Daniel Williams](https://dannyjameswilliams.co.uk/author/daniel-williams/), [COMPASS](http://www.bristol.ac.uk/cdt/compass/). (Viva passed, with minor revision)
 
 ### Teaching
 - [Algorithms and Programming in C(++) and R](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=MATH10017) (2021-2023), School of Mathematics.
