@@ -63,7 +63,7 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 
 ### Graduated PhD students
 - Yulong Zhang, Civil Engineering PhD student.
-- Mingxuan Yi, Math PhD student. (Viva passed, with minor revision)
+- [Mingxuan Yi](https://mingxuan-yi.github.io/), Math PhD student. (Viva passed, with minor revision)
 - [Daniel Williams](https://dannyjameswilliams.co.uk/author/daniel-williams/), [COMPASS](http://www.bristol.ac.uk/cdt/compass/). (Viva passed, with minor revision)
 
 ### Teaching
