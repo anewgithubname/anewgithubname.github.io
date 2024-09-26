@@ -7,6 +7,7 @@ I have a _vision_ that by comparing two density functions, many machine learning
 I am happy to accept new PhD students. If you are interested in working on Machine Learning at Bristol, you may find several funding opportunities, such as [Prob_AI](https://www.probai.uk/) and [CSC scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).  
 
 ### Select papers in recent years (*post/undergrad students I supervise)
+- (NeurIPS2024), Givens, J.\*, Reeve, H., **Liu, S.**, Reluga, K., Conditional Outcome Equivalence: A Quantile Alternative to CATE, _NeurIPS2024_
 - (ICML2024), **Liu, S.**, Yu, J., Simons, J.\*, Yi, M.\*, Beaumont, M., Minimizing $f$-Divergences by Interpolating Velocity Fields, _ICML2024_, [arxiv](https://arxiv.org/abs/2305.15577). 
 
 - (ICML2024), Sharrock, L.\#, Simons, J.\#\*, **Liu, S.**, Beaumont, M., Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models, _ICML2024_, [arxiv](https://arxiv.org/abs/2210.04872). \#Equal contribution,
