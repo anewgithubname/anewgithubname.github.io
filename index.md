@@ -7,7 +7,7 @@ I have a _vision_ that by comparing two density functions, many machine learning
 I am happy to accept new PhD students. If you are interested in working on Machine Learning at Bristol, you may find several funding opportunities, such as [Prob_AI](https://www.probai.uk/) and [CSC scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).  
 
 ### Select papers in recent years (*post/undergrad students I supervise)
-- (BDU workshop at NeurIPS2024), Wang, Y.*, Khoo, S.*, **Liu, S.**, Bayesian Decision-making and Uncertainty workshop: Lightspeed Black-box Bayesian Optimization via Local Score Matching, __NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty__, [openreview](https://openreview.net/forum?id=b9N6i7QYDA)
+- (BDU workshop at NeurIPS2024), Wang, Y.\*, Khoo, S.\*, **Liu, S.**, Bayesian Decision-making and Uncertainty workshop: Lightspeed Black-box Bayesian Optimization via Local Score Matching, _NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty_, [openreview](https://openreview.net/forum?id=b9N6i7QYDA)
 
 - (NeurIPS2024), Givens, J.\*, Reeve, H., **Liu, S.**, Reluga, K., Conditional Outcome Equivalence: A Quantile Alternative to CATE, _NeurIPS2024_, [arxiv](https://arxiv.org/abs/2410.12454)
 
