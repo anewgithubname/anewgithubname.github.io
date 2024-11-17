@@ -63,7 +63,8 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 - Jack Simons, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Prof. Mark Beaumont. 
 - Josh Givens, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Dr. Henry Reeve.
 - Yakun Wang, Math PhD student.
-- Sherman Khoo, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Prof. Mark Beaumont. 
+- Sherman Khoo, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Prof. Mark Beaumont.
+- Luke Shannon, [ProbAI](https://www.probai.uk/), co-supervising with Dr. Katarzyna Reluga
 
 ### Graduated PhD students
 - Yulong Zhang, Civil Engineering PhD student.
