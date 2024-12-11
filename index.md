@@ -66,7 +66,7 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 - Luke Shannon, [ProbAI](https://www.probai.uk/), co-supervising with Dr. Katarzyna Reluga
 
 ### Graduated PhD students
-- Yulong Zhang, Civil Engineering PhD student.
+- Yulong Zhang, Civil Engineering PhD student, co-supervised with Prof. John Macdonald and Dr. Paul Harper
 - [Mingxuan Yi](https://mingxuan-yi.github.io/), Math PhD student. 
 - [Daniel Williams](https://dannyjameswilliams.co.uk/author/daniel-williams/), [COMPASS](http://www.bristol.ac.uk/cdt/compass/). 
 - Jack Simons, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervised with Prof. Mark Beaumont. 
