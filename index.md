@@ -7,6 +7,8 @@ I have a _vision_ that by comparing two density functions, many machine learning
 I am happy to accept new PhD students. If you are interested in working on Machine Learning at Bristol, you may find several funding opportunities, such as [Prob_AI](https://www.probai.uk/) and [CSC scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).  
 
 ### Select papers in recent years (*post/undergrad students I supervise)
+- (TPEL2025), Wang, Y.\*, **Liu, S.**, Wang, J., Cui, B., Yang J., Machine Learning Based Probe Skew Correction for High-frequency BH Loop Measurements, _IEEE Transactions on Power Electronics_, [arxiv](https://arxiv.org/abs/2501.12209), 2025
+
 - (AISTATS2025), Williams, D. J.\*\#, Wang, L.\*\#, Ying, Q.\*, **Liu, S.**, Kolar M., High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching, _AISTATS2025_, [arxiv](https://arxiv.org/abs/2410.10637). \#Equal Contribution. 
 
 - (BDU workshop at NeurIPS2024), Wang, Y.\*, Khoo, S.\*, **Liu, S.**, Bayesian Decision-making and Uncertainty workshop: Lightspeed Black-box Bayesian Optimization via Local Score Matching, _NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty_, [openreview](https://openreview.net/forum?id=b9N6i7QYDA)
