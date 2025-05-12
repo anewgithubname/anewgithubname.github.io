@@ -8,6 +8,7 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 
 ### Select papers in recent years (*post/undergrad students I supervise)
 - (UAI2025), **Liu, S.**, Wang, L., Wang, Y., Guiding Time-Varying Generative Models by Natural Gradients on Exponential Family Manifold, _UAI2025_, [arxiv](https://arxiv.org/abs/2502.07650), 2025.
+
 - (ICML2025), Givens, J. \*, **Liu, S.**, Reeve, H., Score Matching with Missing Data, _ICML2025_.
 	- **Spotlight paper, Top 2.6%**
 
