@@ -11,7 +11,7 @@ I am happy to accept new PhD students. If you are interested in working on Machi
 	- **Outstanding long paper**, at Deep Generative Model in Machine Learning: Theory, Principle and Efficacy workshop at _ICLR2025_. 
 
 - (ICML2025), Givens, J. \*, **Liu, S.**, Reeve, H., Score Matching with Missing Data, _ICML2025_.
-	- **Oral paper, ~ Top 1%**
+	- **Outstanding paper**
 
 - (TPEL2025), Wang, Y.\*, **Liu, S.**, Wang, J., Cui, B., Yang J., Machine Learning Based Probe Skew Correction for High-frequency BH Loop Measurements, _IEEE Transactions on Power Electronics_, [arxiv](https://arxiv.org/abs/2501.12209), 2025
 
