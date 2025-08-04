@@ -4,7 +4,7 @@ I am a _statistical machine learning_ researcher and have been mostly working on
 I have a _vision_ that by comparing two density functions, many machine learning problems can be solved more elegantly and efficiently. You can read more about my vision on [Machine Learning via Statistical Discrepancies](comp_div.pdf).
 <!-- We have seen many important works being done along this line, such as [Generative Adversarial Net](https://arxiv.org/abs/1406.2661).  -->
 
-I am happy to accept new PhD students. If you are interested in working on Machine Learning at Bristol, you may find several funding opportunities, such as [Prob_AI](https://www.probai.uk/), [Informed AI](https://informed-ai.net/) and [CSC scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).
+I am happy to accept new PhD students. If you are interested in working in Machine Learning at Bristol, you may find several funding opportunities, such as [Prob_AI](https://www.probai.uk/), [Informed AI](https://informed-ai.net/) and [CSC scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).
 
 ### Recent Publications (*post/undergrad students I supervise)
 - (UAI2025), **Liu, S.**, Wang, L.\*, Wang, Y.\*, Guiding Time-Varying Generative Models by Natural Gradients on Exponential Family Manifold, _UAI2025_, [arxiv](https://arxiv.org/abs/2502.07650), 2025.
