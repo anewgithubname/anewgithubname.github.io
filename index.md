@@ -7,7 +7,7 @@ I have a _vision_ that by comparing two density functions, many machine learning
 I am happy to accept new PhD students. If you are interested in working in Machine Learning at Bristol, you may find several funding opportunities, such as [Prob_AI](https://www.probai.uk/), [Informed AI](https://informed-ai.net/) and [CSC scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).
 
 ### Recent Publications (*post/undergrad students I supervise)
-- (NeurIPS2025), Yu, J.\*, Ying Q., Wang, L., **Liu, S.**, Missing Data Imputation by Reducing Mutual Information with Rectified Flows, _NeurIPS2025_, [arxiv](https://arxiv.org/pdf/2505.11749)
+- (NeurIPS2025), Yu, J.\*, Ying Q., Wang, L., Jiang, Z., **Liu, S.**, Missing Data Imputation by Reducing Mutual Information with Rectified Flows, _NeurIPS2025_, [arxiv](https://arxiv.org/pdf/2505.11749)
 
 - (NeurIPS2025), Khoo, S.\*, Wang, Y.\*, **Liu, S.**, Beaumont, M., Direct Fisher Score Estimation for Likelihood Maximization, _NeurIPS2025_, [arxiv](https://arxiv.org/abs/2506.06542)
   	- **Spotlight**
