@@ -10,7 +10,7 @@ I am happy to accept new PhD students. If you are interested in working in Machi
 - (NeurIPS2025), Yu, J.\*, Ying Q., Wang, L., Jiang, Z., **Liu, S.**, Missing Data Imputation by Reducing Mutual Information with Rectified Flows, _NeurIPS2025_, [arxiv](https://arxiv.org/pdf/2505.11749)
 
 - (NeurIPS2025), Khoo, S.\*, Wang, Y.\*, **Liu, S.**, Beaumont, M., Direct Fisher Score Estimation for Likelihood Maximization, _NeurIPS2025_, [arxiv](https://arxiv.org/abs/2506.06542)
-  	- **Spotlight, Top 3%**
+	- **Spotlight, Top 3%**
 
 - (UAI2025), **Liu, S.**, Wang, L.\*, Wang, Y.\*, Guiding Time-Varying Generative Models by Natural Gradients on Exponential Family Manifold, _UAI2025_, [arxiv](https://arxiv.org/abs/2502.07650), 2025.
 	- **Outstanding long paper**, at Deep Generative Model in Machine Learning: Theory, Principle and Efficacy workshop at _ICLR2025_. 
