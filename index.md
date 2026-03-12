@@ -80,7 +80,7 @@ I am happy to accept new PhD students. If you are interested in working in Machi
 - Yakun Wang, Math PhD student.
 - Sherman Khoo, [COMPASS](http://www.bristol.ac.uk/cdt/compass/), co-supervising with Prof. Mark Beaumont.
 - Luke Shannon, [ProbAI](https://www.probai.uk/), co-supervising with Dr. Katarzyna Reluga
-- Yichen Zan, Math PhD student. 
+- Yichen Zang, Math PhD student. 
 
 ### Graduated PhD students
 - Yulong Zhang, Civil Engineering PhD student, co-supervised with Prof. John Macdonald and Dr. Paul Harper
