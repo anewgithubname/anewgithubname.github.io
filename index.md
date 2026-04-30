@@ -7,6 +7,11 @@ I have a _vision_ that by comparing two density functions, many machine learning
 I am happy to accept new PhD students. If you are interested in working in Machine Learning at Bristol, you may find several funding opportunities, such as [Prob_AI](https://www.probai.uk/), [Informed AI](https://informed-ai.net/) and [CSC scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).
 
 ### Recent Publications (*post/undergrad students I supervise)
+- (ICML2026), Wang, Y.\*\#, Wang, L.\#, **Liu, S.**, Suzuki, T. Zero-Flow Encoders, _ICML2026_, [arxiv](https://arxiv.org/abs/2602.00797)
+	- \# Equal Contribution. 
+
+- (ICML2026), Khoo, S.\*, Prangle, D., **Liu, S.**, Beaumont, M., Minimum Distance Summaries for Robust Neural Posterior Estimation, _ICML2026_, [arxiv](https://arxiv.org/abs/2602.09161)
+
 - (ICLR2026), Givens, J.\*, **Liu, S.**, Reeve.  H., Reluga, K., Direct Doubly Robust Estimation of Conditional Quantile Contrasts, _ICLR2026_, [arixv](https://arxiv.org/abs/2601.19666)
 
 - (NeurIPS2025), Yu, J.\*, Ying Q., Wang, L., Jiang, Z., **Liu, S.**, Missing Data Imputation by Reducing Mutual Information with Rectified Flows, _NeurIPS2025_, [arxiv](https://arxiv.org/pdf/2505.11749)
